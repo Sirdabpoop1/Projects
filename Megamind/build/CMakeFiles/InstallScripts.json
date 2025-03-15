@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Visual Studio Code Projects/Megamind/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

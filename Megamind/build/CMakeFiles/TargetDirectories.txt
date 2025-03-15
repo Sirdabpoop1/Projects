@@ -1,0 +1,3 @@
+C:/Visual Studio Code Projects/Megamind/build/CMakeFiles/Megamind.dir
+C:/Visual Studio Code Projects/Megamind/build/CMakeFiles/edit_cache.dir
+C:/Visual Studio Code Projects/Megamind/build/CMakeFiles/rebuild_cache.dir

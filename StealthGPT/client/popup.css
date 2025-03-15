@@ -1,0 +1,12 @@
+body {
+    width: 500px;
+    height: 500px;
+    position: relative;
+    vertical-align: middle;
+}
+
+.submit_button {
+    width: 100px;
+    height: 80px;
+    border-radius: 20px;
+}

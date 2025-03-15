@@ -1,0 +1,18 @@
+{
+  "name": "StealthGPT",
+  "description": "HeHeHeHaw",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["activeTab", "scripting", "identity", "identity.email", "storage"],
+  "oauth2": {
+    "client_id": "984370571203-22h95ahurkhp6vclmg72dc10hfmf0u7i.apps.googleusercontent.com",
+    "scopes": ["https://www.googleapis.com/auth/documents"]
+  },
+  "action": {
+    "default_popup": "client/popup.html"
+  },
+  "host_permissions": [
+    "https://accounts.google.com/*",
+    "https://docs.googleapis.com/*"
+  ]
+}
